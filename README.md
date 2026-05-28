@@ -1,2 +1,0 @@
-# cv-nanny
-cv-nanny
